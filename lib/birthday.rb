@@ -11,4 +11,4 @@ def happy_birthday(birthday_kids)
 end
 
 def age_appropriate_birthday(array)
-  array.each do |name, age|
+  array.each do |kids_name, age|
